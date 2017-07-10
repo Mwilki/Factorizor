@@ -1,0 +1,9 @@
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor.Tests\obj\Debug\Factorizor.Tests.csprojResolveAssemblyReference.cache
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor.Tests\bin\Debug\Factorizor.Tests.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor.Tests\bin\Debug\Factorizor.Tests.pdb
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor.Tests\bin\Debug\Factorizor.BLL.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor.Tests\bin\Debug\nunit.framework.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor.Tests\bin\Debug\Factorizor.BLL.pdb
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor.Tests\bin\Debug\nunit.framework.xml
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor.Tests\obj\Debug\Factorizor.Tests.dll
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor.Tests\obj\Debug\Factorizor.Tests.pdb

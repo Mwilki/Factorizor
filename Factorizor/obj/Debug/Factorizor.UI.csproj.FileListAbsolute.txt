@@ -1,0 +1,3 @@
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor\obj\Debug\Factorizor.UI.csprojResolveAssemblyReference.cache
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor\obj\Debug\Factorizor.exe
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor\obj\Debug\Factorizor.pdb

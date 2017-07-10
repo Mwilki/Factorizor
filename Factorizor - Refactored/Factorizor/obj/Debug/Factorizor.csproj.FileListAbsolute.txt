@@ -1,0 +1,16 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Factorizor\Start\Factorizor\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\praisekek\Desktop\Guild\secondRepo\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\praisekek\Desktop\Guild\secondRepo\Factorizor\bin\Debug\Factorizor.exe
+C:\Users\praisekek\Desktop\Guild\secondRepo\Factorizor\bin\Debug\Factorizor.pdb
+C:\Users\praisekek\Desktop\Guild\secondRepo\Factorizor\obj\Debug\Factorizor.csprojResolveAssemblyReference.cache
+C:\Users\praisekek\Desktop\Guild\secondRepo\Factorizor\obj\Debug\Factorizor.exe
+C:\Users\praisekek\Desktop\Guild\secondRepo\Factorizor\obj\Debug\Factorizor.pdb
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor\obj\Debug\Factorizor.exe
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor\obj\Debug\Factorizor.pdb
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor\bin\Debug\Factorizor.exe
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor\bin\Debug\Factorizor.pdb
+C:\Users\praisekek\Desktop\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor\obj\Debug\Factorizor.csprojResolveAssemblyReference.cache
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor - Refactored\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor - Refactored\Factorizor\obj\Debug\Factorizor.exe
+C:\Users\praisekek\OneDrive\1GuildBackup\Guild\firstRepo\matthew-wilkinson-individual-work\Factorizor-Final\Factorizor - Refactored\Factorizor\obj\Debug\Factorizor.pdb
